@@ -4,7 +4,7 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : Feb 20, 2015, 2:56:34 PM
+    Created on : Feb 20, 2015, 9:29:42 PM
     Author     : kasem
 */
 body{
@@ -91,6 +91,7 @@ body{
     border-right: 1px solid #e8e8e8 ;
     border-top: 1px solid #e8e8e8 ;
     border-bottom: 1px solid #e8e8e8 ; 
+    color: #fff;
 }
 #follow-botton-setup{
     position: absolute;
@@ -216,6 +217,7 @@ body{
     border-right: 1px solid #e8e8e8 ;
     border-top: 1px solid #e8e8e8 ;
     border-bottom: 1px solid #e8e8e8 ;
+    color: #fff;
     
 }
 #upload{
@@ -883,3 +885,4 @@ body{
     font-size: 12px;
     padding: 15px;
 }
+
